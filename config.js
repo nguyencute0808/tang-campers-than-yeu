@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Campers à!',
-    introDesc: `Anh chị thích đi cemp vì trong cemp có em`,
+    introDesc: `Anh chị thích đi cemp vì trong cemp có em đó!!!`,
     btnIntro: 'hihi',
     title: 'ARE YOU READY???',
     desc: 'Anh chị đã sẵn sàng, còn em thì sao?',
